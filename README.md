@@ -5,8 +5,8 @@
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
 ## Level progress
-- **Apprentice**: 0 of 0
-- **Practitioner**: 0 of 0
+- **Apprentice**: 13 of 13
+- **Practitioner**: 3 of 3
 - **Expert**: 0 of 0
 
 ## Categories Covered
