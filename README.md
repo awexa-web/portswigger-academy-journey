@@ -1,17 +1,18 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs-%20N/A-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20N/A-lightgrey)
+![Total Labs](https://img.shields.io/badge/Total%20Labs-%2016-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20Clickjacking-lightgrey)
 
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
 ## Level progress
-- **Apprentice**: 1 of 10
-- **Practitioner**: 3 of 17
+- **Apprentice**: 6 of 6
+- **Practitioner**: 8 of 9
 - **Expert**: 0 of 0
 
 ## Categories Covered
-- **Web cache deception**: 3/3 lab
+- **Web cache deception**: 5/5 lab
 - **Server-side request forgery (SSRF)**: 4/5 lab
+- **Clickjacking**: 5/5 lab
 - **API Testing**: 0/0 lab
 - **Authentication vulnerabilities**: 0/0 lab
 - **Access control**: 0/0 lab
@@ -23,7 +24,6 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 - **GraphQL API vulnerabilities**: 0/0 lab
 - **Insecure deserialization**: 0/0 lab
 - **XXE injection**: 0/0 lab
-- **Clickjacking**: 0/0 lab
 - **NoSQL injection**: 0/0 lab
 - **Request smuggling**: 0/0 lab
 
