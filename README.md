@@ -5,18 +5,18 @@
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
 ## Level progress
-- **Apprentice**: 13 of 13
-- **Practitioner**: 3 of 3
+- **Apprentice**: 1 of 10
+- **Practitioner**: 3 of 17
 - **Expert**: 0 of 0
 
 ## Categories Covered
 - **Web cache deception**: 3/3 lab
+- **Server-side request forgery (SSRF)**: 4/5 lab
 - **API Testing**: 0/0 lab
 - **Authentication vulnerabilities**: 0/0 lab
 - **Access control**: 0/0 lab
 - **SQL injection**: 0/0 lab
 - **Cross-site scripting**: 0/0 lab
-- **Server-side request forgery (SSRF)**: 0/0 lab
 - **Server-side template injection**: 0/0 lab
 - **JWT attacks**: 0/0 lab
 - **OAuth authentication**: 0/0 lab
@@ -44,4 +44,4 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 | No | Date    | Topic                 | Lab Title | Difficulty | Writeup Link |
 |----|---------|-----------------------|-----------|------------|--------------|
 | 1  |2025-6-10  | Web cache deception   |Web cache deception     | PRACTITIONER   | N/A          |
-|  | |   |        |       |       |
+| 2  | 2025-6-11 |  Server-side request forgery (SSRF) |  SSRF Attacks     |   PRACTITIONER     |N/A|
