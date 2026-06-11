@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs-%2016-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20Clickjacking-lightgrey)
+![Total Labs](https://img.shields.io/badge/Total%20Labs-%2015-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20Clickjacking-lightgrey)
 
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
