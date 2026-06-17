@@ -12,9 +12,9 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 ## Categories Covered
 - **Web cache deception**: 5/5 lab
 - **Server-side request forgery (SSRF)**: 4/5 lab
+- **Authentication vulnerabilities**: 11/11 lab
 - **Clickjacking**: 5/5 lab
 - **API Testing**: 0/0 lab
-- **Authentication vulnerabilities**: 11/11 lab
 - **Access control**: 0/0 lab
 - **SQL injection**: 0/0 lab
 - **Cross-site scripting**: 0/0 lab
@@ -43,7 +43,28 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 
 | No | Date    | Topic                 | Lab Title | Difficulty | Writeup Link |
 |----|---------|-----------------------|-----------|------------|--------------|
-| 1  |2025-6-10  | Web cache deception   |Web cache deception     | PRACTITIONER   | N/A          |
-| 2  | 2025-6-11 |  Server-side request forgery (SSRF) |  SSRF Attacks     |   PRACTITIONER     |N/A|
-| 3  | 2025-6-12 |  Clickjacking Attacks| Clickjacking (UI redressing)     |   PRACTITIONER     |N/A|
-| 4 | 2025-6-13 |  Authentication vulnerabilities |  Authentication vulnerabilities     |   PRACTITIONER     |[writeup](https://medium.com/@awela1499/username-enumeration-via-different-responses-portswigger-lab-17dd6255e1bb)|
+| 1  |2025-6-10  | Web cache deception   |Exploiting path mapping for web cache deception     | APPRENTICE   | N/A          |
+| 2  |2025-6-10  | Web cache deception   |Exploiting path delimiters for web cache deception    |PRACTITIONER | N/A  |
+| 3 |2025-6-10  | Web cache deception   |Exploiting origin server normalization for web cache deception     |PRACTITIONER | N/A  |
+| 4 |2025-6-10  | Web cache deception   |Exploiting cache server normalization for web cache deception  |PRACTITIONER | N/A |
+| 5 | 2025-6-11 |  Server-side request forgery (SSRF) |Basic SSRF against the local server |APPRENTICE     |N/A|
+| 6 | 2025-6-11 |  Server-side request forgery (SSRF) |Basic SSRF against another back-end system |   APPRENTICE     |N/A|
+| 7 | 2025-6-11 |  Server-side request forgery (SSRF) |SSRF with blacklist-based input filter |   PRACTITIONER     |N/A|
+| 8 | 2025-6-11 |  Server-side request forgery (SSRF) | SSRF with filter bypass via open redirection vulnerability|   PRACTITIONER     |N/A|
+| 9 | 2025-6-11 |  Server-side request forgery (SSRF) |Blind SSRF with out-of-band detection  |   PRACTITIONER     |N/A|
+| 10 | 2025-6-12 |  Authentication vulnerabilities |Username enumeration via different responses |   APPRENTICE |[writeup](https://medium.com/@awela1499/username-enumeration-via-different-responses-portswigger-lab-17dd6255e1bb)|
+| 11 | 2025-6-12 |  Authentication vulnerabilities |Username enumeration via subtly different responses|   PRACTITIONER |N/A|
+| 12| 2025-6-12 |  Authentication vulnerabilities |Username enumeration via response timing|   PRACTITIONER |N/A|
+| 13 | 2025-6-12 |  Authentication vulnerabilities |Broken brute-force protection, IP block  |   PRACTITIONER |N/A|
+| 14 | 2025-6-13 |  Authentication vulnerabilities |   2FA simple bypass  |   APPRENTICE |N/A|
+| 15 | 2025-6-13 |  Authentication vulnerabilities |2FA broken logic  |   PRACTITIONER |N/A|
+| 16 | 2025-6-13 |  Authentication vulnerabilities |Brute-forcing a stay-logged-in cookie  |   PRACTITIONER |N/A|
+| 17 | 2025-6-13 |  Authentication vulnerabilities | Offline password cracking |   PRACTITIONER |N/A|
+| 18 | 2025-6-13 |  Authentication vulnerabilities |Password reset broken logic  |   APPRENTICE |N/A|
+| 19| 2025-6-13 |  Authentication vulnerabilities |Password reset poisoning via middleware |   PRACTITIONER |N/A|
+| 20 | 2025-6-13 |  Authentication vulnerabilities | Password brute-force via password change|   PRACTITIONER |N/A|
+| 21  | 2025-6-12 |Clickjacking (UI redressing)    |Basic clickjacking with CSRF token protection |   APPRENTICE     |N/A|
+| 22  | 2025-6-12 |Clickjacking (UI redressing)    |Clickjacking with form input data prefilled from a URL parameter |APPRENTICE |N/A|
+| 23 | 2025-6-12 |Clickjacking (UI redressing)    |Clickjacking with a frame buster script |APPRENTICE   |N/A|
+| 24  | 2025-6-12 |Clickjacking (UI redressing)    |Exploiting clickjacking vulnerability to trigger DOM-based XSS |   PRACTITIONER     |N/A|
+| 25  | 2025-6-12 |Clickjacking (UI redressing)    |Multistep clickjacking|   PRACTITIONER     |N/A|
