@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs-%2025-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20Authentication%20vulnerabilities-lightgrey)
+![Total Labs](https://img.shields.io/badge/Total%20Labs-%2034-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20SQL-injection-attack-listing-the-database-contents-on-non-Oracle-databases-lightgrey)
 
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
 ## Level progress
 - **Apprentice**: 27 of 61
-- **Practitioner**: 25 of 174
+- **Practitioner**: 33 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -63,8 +63,16 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 | 18 | 2025-6-13 |  Authentication vulnerabilities |Password reset broken logic  |   APPRENTICE |N/A|
 | 19| 2025-6-13 |  Authentication vulnerabilities |Password reset poisoning via middleware |   PRACTITIONER |N/A|
 | 20 | 2025-6-13 |  Authentication vulnerabilities | Password brute-force via password change|   PRACTITIONER |N/A|
-| 21  | 2025-6-12 |Clickjacking (UI redressing)    |Basic clickjacking with CSRF token protection |   APPRENTICE     |N/A|
-| 22  | 2025-6-12 |Clickjacking (UI redressing)    |Clickjacking with form input data prefilled from a URL parameter |APPRENTICE |N/A|
-| 23 | 2025-6-12 |Clickjacking (UI redressing)    |Clickjacking with a frame buster script |APPRENTICE   |N/A|
-| 24  | 2025-6-12 |Clickjacking (UI redressing)    |Exploiting clickjacking vulnerability to trigger DOM-based XSS |   PRACTITIONER     |N/A|
-| 25  | 2025-6-12 |Clickjacking (UI redressing)    |Multistep clickjacking|   PRACTITIONER     |N/A|
+| 21  | 2025-6-14 |Clickjacking (UI redressing)    |Basic clickjacking with CSRF token protection |   APPRENTICE     |N/A|
+| 22  | 2025-6-14 |Clickjacking (UI redressing)    |Clickjacking with form input data prefilled from a URL parameter |APPRENTICE |N/A|
+| 23 | 2025-6-14 |Clickjacking (UI redressing)    |Clickjacking with a frame buster script |APPRENTICE   |N/A|
+| 24  | 2025-6-14 |Clickjacking (UI redressing)    |Exploiting clickjacking vulnerability to trigger DOM-based XSS |   PRACTITIONER     |N/A|
+| 25  | 2025-6-14 |Clickjacking (UI redressing)    |Multistep clickjacking|   PRACTITIONER     |N/A|
+| 26  | 2025-6-16 |SQL injection|SQL injection vulnerability in WHERE clause allowing retrieval of hidden data|APPRENTICE|N/A|
+| 27  | 2025-6-16 |SQL injection| SQL injection vulnerability allowing login bypass|APPRENTICE|N/A|
+| 28  | 2025-6-16 |SQL injection| SQL injection UNION attack, determining the number of columns returned by the query|   PRACTITIONER     |N/A|
+| 29  | 2025-6-16 |SQL injection|SQL injection UNION attack, finding a column containing text|   PRACTITIONER |N/A|
+| 30  | 2025-6-16 |SQL injection| SQL injection UNION attack, retrieving data from other tables|   PRACTITIONER |N/A|
+| 31  | 2025-6-16 |SQL injection| SQL injection UNION attack, retrieving multiple values in a single column|PRACTITIONER|N/A|
+| 32  | 2025-6-17 |SQL injection| SQL injection attack, querying the database type and version on MySQL and Microsoft| PRACTITIONER|N/A|
+| 33  | 2025-6-17 |SQL injection| SQL injection attack, listing the database contents on non-Oracle databases|PRACTITIONER|N/A|
