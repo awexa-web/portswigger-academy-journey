@@ -96,3 +96,10 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 | 48| 2025-6-23 |   File upload vulnerabilities| Web shell upload via extension blacklist bypass |PRACTITIONER|N/A|
 | 49| 2025-6-24 |   File upload vulnerabilities| Web shell upload via obfuscated file extension |PRACTITIONER|N/A|
 | 50| 2025-6-24 |   File upload vulnerabilities| Remote code execution via polyglot web shell upload |PRACTITIONER|N/A|
+| 51| 2025-6-24 |     Path traversal| File path traversal, traversal sequences blocked with absolute path bypass |PRACTITIONER|N/A|
+| 52| 2025-6-24 |     Path traversal|File path traversal, traversal sequences stripped non-recursively |PRACTITIONER|N/A|
+| 53| 2025-6-24 |     Path traversal| File path traversal, traversal sequences stripped with superfluous URL-decode |PRACTITIONER|N/A|
+| 54| 2025-6-24 |     Path traversal|File path traversal, validation of start of path |PRACTITIONER|N/A|
+| 55| 2025-6-24 |     Path traversal|File path traversal, validation of file extension with null byte bypass
+ |PRACTITIONER|N/A|
+
