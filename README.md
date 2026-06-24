@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs-%2050-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20File%20path%20traversal%2C%20validation%20of%20file%20extension%20with%20null%20byte%20bypass-lightgrey)
+![Total Labs](https://img.shields.io/badge/Total%20Labs-%2056-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20%20Exploiting%20an%20API%20endpoint%20using%20documentation-lightgrey)
 
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
@@ -18,7 +18,7 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 - **Path traversal**: 6/6
 - **Access control**: 5/13 lab
 - **File upload vulnerabilities**:6/6 lab
-- **API Testing**: 0/0 lab
+- **API Testing**: 2/6 lab
 - **Cross-site scripting**: 0/0 lab
 - **Server-side template injection**: 0/0 lab
 - **JWT attacks**: 0/0 lab
@@ -102,5 +102,4 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 | 54| 2025-6-24 |     Path traversal|File path traversal, validation of start of path |PRACTITIONER|N/A|
 | 55| 2025-6-24 |     Path traversal|File path traversal, validation of file extension with null byte bypass|PRACTITIONER|N/A|
 | 56| 2025-6-24 | API testing |Exploiting an API endpoint using documentation|APPRENTICE|N/A|
-
 | 56| 2025-6-24 | API testing |Exploiting an API endpoint using documentation|APPRENTICE|N/A|
