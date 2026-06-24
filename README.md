@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs-%2050-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20Remote%20code%20execution%20via%20polyglot%20web%20shell%20upload-lightgrey)
+![Total Labs](https://img.shields.io/badge/Total%20Labs-%2050-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20File%20path%20traversal%2e%20validation%20of%20file%20extension%20with%20null%20byte%20bypass-lightgrey)
 
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
