@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs-%2044-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20Blind%20SQL%20injection%20with%20time%20delays%20and%20information%20retrieval-lightgrey)
+![Total Labs](https://img.shields.io/badge/Total%20Labs-%2045-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-%20SQL%20injection%20with%20filter%20bypass%20via%20XML%20encoding-lightgrey)
 
 This repository tracks progress through PortSwigger Web Security Academy labs. It is structured as a solved labs tracker with an empty table ready for future updates and writeup links.
 
@@ -88,3 +88,5 @@ This repository tracks progress through PortSwigger Web Security Academy labs. I
 | 42| 2025-6-20 |SQL injection | Blind SQL injection with conditional errors |PRACTITIONER|N/A|
 | 43| 2025-6-20 |SQL injection |  Visible error-based SQL injection |PRACTITIONER|N/A|
 | 44| 2025-6-21 |SQL injection | Blind SQL injection with time delays and information retrieval |PRACTITIONER|N/A|
+| 45| 2025-6-24 |SQL injection | SQL injection with filter bypass via XML encoding|PRACTITIONER|N/A|
+
